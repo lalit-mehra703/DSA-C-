@@ -31,5 +31,6 @@ int main(){
     };
 
     SortedMatriSearch(matrix,4,4,37);
+    //Optimized solution in searchTargetOpt.cpp
     return 0;
 }
